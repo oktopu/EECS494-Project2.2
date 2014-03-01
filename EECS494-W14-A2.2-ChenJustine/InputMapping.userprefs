@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ConsistentKeyboard.cs">
+    <Files>
+      <File FileName="InputMapping.sln" Line="40" Column="1" />
+      <File FileName="Assets\ConsistentKeyboardDemo\cube_script.cs" Line="14" Column="58" />
+      <File FileName="Assets\GamePadInput\GamePad.cs" Line="62" Column="1" />
+      <File FileName="Assets\GamePadInput\Demo\DemoScript.cs" Line="13" Column="20" />
+      <File FileName="Assets\ConsistentKeyboard.cs" Line="16" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
